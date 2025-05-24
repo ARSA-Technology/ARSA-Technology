@@ -91,7 +91,7 @@ We believe in sharing knowledge and building communities. Our open source projec
 
 - **Identik Award 2022** - Kominfo RI for AI Technology Innovation
 - **Tech Planter Finalist 2018** - Leave a Nest Indonesia
-- **Asia Hardware Bale Finalist 2018** - TechNode China
+- **Asia Hardware Battle Finalist 2018** - TechNode China
 - **GoStartupIndonesia Finalist 2018** - Bekraf RI
 
 ## Our Locations
